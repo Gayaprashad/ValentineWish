@@ -5,10 +5,7 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  background: #eb3f84;
 }
-
-
 
 .container {
   height: 100vh;
@@ -215,7 +212,7 @@ body {
 }
 
 .Button_click{
-  background-color: #f44336; /* Green */
+  background-color: #04AA6D; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
