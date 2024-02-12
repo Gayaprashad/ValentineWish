@@ -272,7 +272,7 @@ const animationTimeline = () => {
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
     tl.restart();
-	location.replace("https://www.youtube.com/watch?v=CqFE4iH0OJQ")
+	location.replace("https://youtu.be/y9bMb7Zu-ac")
   });
 };
 
